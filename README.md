@@ -1,4 +1,4 @@
-# C# Console app to convert feet and metric values
+# C# Console app to convert between feet and meters
 
 A simple C# console application that converts a distance in feet/meters to meters/feet. The user chooses the type of conversion and enters their measurement value to convert.
 
