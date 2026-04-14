@@ -24,11 +24,11 @@ This can then be extended for weights, temperatures, or any other value that can
 ## Prerequisites
 
 - [.NET SDK 10.0](https://dotnet.microsoft.com/en-us/download)
-- [Visual Studio Code](https://code.visualstudio.com/) with C# Dev Kit
+- [Visual Studio Code](https://code.visualstudio.com/) with [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
 
 <!--
-   Maybe add NuGet to the above list
-   Google: "sample readme for a c# console application"
+   Maybe add NuGet to the above list when I use that in future projects
+   Google: "sample readme for a c# console application" for good boilerplate
  -->
 
 <br>
