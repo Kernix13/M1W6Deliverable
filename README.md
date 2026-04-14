@@ -25,8 +25,8 @@ This can then be extended for weights, temperatures, or any other value that can
 
 1. Clone this repository and switch into project folder
    ```sh
-   git clone https://github.com/Kernix13/M1W6Deliverable optional_folder_name
-   cd optional_folder_name
+   git clone https://github.com/Kernix13/M1W6Deliverable
+   cd M1W6Deliverable
    ```
 2. Compile a build of the application
    ```sh
@@ -40,6 +40,10 @@ This can then be extended for weights, temperatures, or any other value that can
    ```sh
    dotnet new sln
    ```
+5. Link the project to the solution
+   ```sh
+   dotnet sln add M1W6Deliverable.csproj
+   ```
 
 ### Quick Start
 
@@ -49,6 +53,7 @@ cd your_folder_name
 dotnet build
 dotnet run
 dotnet new sln
+dotnet sln add M1W6Deliverable.csproj
 ```
 
 <br>
