@@ -48,8 +48,8 @@ This can then be extended for weights, temperatures, or any other value that can
 ### Quick Start
 
 ```sh
-git clone url optional_folder_name
-cd your_folder_name
+git clone https://github.com/Kernix13/M1W6Deliverable
+cd M1W6Deliverable
 dotnet build
 dotnet run
 dotnet new sln
