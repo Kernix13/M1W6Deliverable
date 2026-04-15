@@ -7,7 +7,7 @@
 double[] conversions = new double[] { 0.3048, 3.28084 };
 
 /* 1. Get type of conversion from user */
-string type;
+string? type;
 
 do
 {
