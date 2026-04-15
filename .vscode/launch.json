@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug M1W6Deliverable",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "${workspaceFolder}/CSharp/M2/M1W6Deliverable/bin/Debug/net8.0/M1W6Deliverable.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/CSharp/M2/M1W6Deliverable",
+      "console": "integratedTerminal",
+      "stopAtEntry": false
+    },
+    {
+      "name": ".NET Core Attach",
+      "type": "coreclr",
+      "request": "attach"
+    }
+  ]
+}
