@@ -36,10 +36,12 @@ This can then be extended for weights, temperatures, or any other value that can
 ## Installation & Usage
 
 1. Clone this repository and switch into project folder
+
    ```sh
    git clone https://github.com/Kernix13/M1W6Deliverable
    cd M1W6Deliverable
    ```
+
 2. Compile a build of the application
    ```sh
    dotnet build
