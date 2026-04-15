@@ -43,18 +43,25 @@ This can then be extended for weights, temperatures, or any other value that can
    ```
 
 2. Compile a build of the application
+
    ```sh
    dotnet build
    ```
+
 3. Run the application
+
    ```sh
    dotnet run
    ```
+
 4. Create a solution file
+
    ```sh
    dotnet new sln
    ```
+
 5. Link the project to the solution
+
    ```sh
    dotnet sln add M1W6Deliverable.csproj
    ```
