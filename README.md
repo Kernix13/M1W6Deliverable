@@ -42,25 +42,13 @@ This can then be extended for weights, temperatures, or any other value that can
    cd M1W6Deliverable
    ```
 
-2. Create a solution file
-
-   ```sh
-   dotnet new sln
-   ```
-
-3. Link the project to the solution
-
-   ```sh
-   dotnet sln add M1W6Deliverable.csproj
-   ```
-
-4. Run the application
+2. Run the application
 
    ```bash
    dotnet run
    ```
 
-5. Build the application
+3. Build the application
 
    ```bash
    dotnet build
@@ -71,8 +59,6 @@ This can then be extended for weights, temperatures, or any other value that can
 ```sh
 git clone https://github.com/Kernix13/M1W6Deliverable
 cd M1W6Deliverable
-dotnet new sln
-dotnet sln add M1W6Deliverable.csproj
 dotnet run
 ```
 
